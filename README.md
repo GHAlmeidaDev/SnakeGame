@@ -3,7 +3,7 @@ Simple snake game built only using `View` tag in React Native!
 
 ---
 
-![Image of modern feed in action]()
+![Image of modern feed in action](){../assets/gifGame.gif}
 
 ## Installation
 
