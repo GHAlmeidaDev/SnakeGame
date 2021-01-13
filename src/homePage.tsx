@@ -2,7 +2,6 @@ import React, { useState, useEffect,  } from 'react';
 import { View, Image, Text } from 'react-native';
 import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { RectButton } from 'react-native-gesture-handler'
-import Icon from '../assets/play.png'
 import styles from './styles';
 import LottieView from "lottie-react-native";
 import * as Animatable from 'react-native-animatable';
@@ -17,13 +16,10 @@ const homePage: React.FC = () => {
     
     
 
-    function handleNavigationToGiveClassesPage(){
+    function navegaGame(){
         navigate('Game')
     }
 
-    function handleNavigationToStudyPages(){
-        navigate('Study')
-    }
 
     
 
@@ -74,7 +70,7 @@ const homePage: React.FC = () => {
                 
 
                 <RectButton
-                    onPress={handleNavigationToGiveClassesPage}
+                    onPress={navegaGame}
                     style={[styles.button, styles.buttonsSecondary]}
                 >
                     <Text 
