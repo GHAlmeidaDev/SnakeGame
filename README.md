@@ -1,12 +1,13 @@
 # Snake Game
-Simple snake game built only using `View` tag in React Native!
+Este é um pequeno e rápido projeto, onde se apresenta o velho e clássico "Jogo da cobrinha" 
 
 ---
 
-![Image of modern feed in action](./assets/gifGame.gif)
+![Image of modern feed in action](./assets/Demo2.gif)
+![Image of modern feed in action](./assets/Demo1.gif)
 
-## Installation
+## Instalação
 
-1. Clone the repo.
-2. Install dependencies using yarn.
-3. Run `yarn start`
+1. Clone o repositório.
+2. Instale as dependências utilizando yarn.
+3. Digite "yarn start"`
