@@ -10,4 +10,4 @@ Este é um pequeno e rápido projeto, onde se apresenta o velho e clássico "Jog
 
 1. Clone o repositório.
 2. Instale as dependências utilizando yarn.
-3. Digite "yarn start"`
+3. Execute o comando "yarn start"`
